@@ -1,0 +1,6 @@
+.env
+requirements.txt
+server.py
+interface_tk.py
+run_server.bat
+run_interface.bat
